@@ -1,140 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Goldydocs</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/</link><description>Recent content on Goldydocs</description><generator>Hugo</generator><language>en</language><atom:link href="https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/index.xml" rel="self" type="application/rss+xml"/><item><title>Overview</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/overview/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page that shows you how to use this template site.&lt;/p>
-
-&lt;/div>
-
-&lt;p>The Overview is where your users find out about your project. Depending on the
-size of your docset, you can have a separate overview page (like this one) or
-put your overview contents in the Documentation landing page (like in the Docsy
-User Guide).&lt;/p>
-&lt;p>Try answering these questions for your user in this page:&lt;/p>
-&lt;h2 id="what-is-it">What is it?&lt;a class="td-heading-self-link" href="#what-is-it" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>Introduce your project, including what it does or lets you do, why you would use
-it, and its primary goal (and how it achieves it). This should be similar to
-your README description, though you can go into a little more detail here if you
-want.&lt;/p></description></item><item><title>Bed and Chair Metrics</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/tasks/beds/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/tasks/beds/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-
-&lt;/div>
-
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p></description></item><item><title>Configuring Ponycopters</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/tasks/ponycopters/configuring-ponycopters/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/tasks/ponycopters/configuring-ponycopters/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-
-&lt;/div>
-
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p></description></item><item><title>Examples</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/examples/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/examples/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page that shows you how to use this template site.&lt;/p>
-
-&lt;/div>
-
-&lt;p>Do you have any example &lt;strong>applications&lt;/strong> or &lt;strong>code&lt;/strong> for your users in your repo
-or elsewhere? Link to your examples here.&lt;/p></description></item><item><title>Launching Ponycopters</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/tasks/ponycopters/launching-ponycopters/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/tasks/ponycopters/launching-ponycopters/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-
-&lt;/div>
-
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p></description></item><item><title>Multi-Bear Domicile Setup</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/tutorials/multi-bear/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/tutorials/multi-bear/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-
-&lt;/div>
-
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p></description></item><item><title>Porridge Assessment</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/tasks/porridge/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/tasks/porridge/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-
-&lt;/div>
-
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p></description></item><item><title>Concepts</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/concepts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/concepts/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page that shows you how to use this template site.&lt;/p>
-
-&lt;/div>
-
-&lt;p>For many projects, users may not need much information beyond the information in the &lt;a href="https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/overview/">Overview&lt;/a>, so this section is &lt;strong>optional&lt;/strong>. However if there are areas where your users will need a more detailed understanding of a given term or feature in order to do anything useful with your project (or to not make mistakes when using it) put that information in this section. For example, you may want to add some conceptual pages if you have a large project with many components and a complex architecture.&lt;/p></description></item><item><title>Another Task</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/tasks/task/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/tasks/task/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-
-&lt;/div>
-
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p></description></item><item><title>Another Tutorial</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/tutorials/tutorial2/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/tutorials/tutorial2/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-
-&lt;/div>
-
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p></description></item><item><title>Contribution Guidelines</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/contribution-guidelines/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/contribution-guidelines/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>These basic sample guidelines assume that your Docsy site is deployed using Netlify and your files are stored in GitHub. You can use the guidelines &amp;ldquo;as is&amp;rdquo; or adapt them with your own instructions: for example, other deployment options, information about your doc project&amp;rsquo;s file structure, project-specific review guidelines, versioning guidelines, or any other information your users might find useful when updating your site. &lt;a href="https://github.com/kubeflow/website/blob/master/README.md">Kubeflow&lt;/a> has a great example.&lt;/p>
-&lt;p>Don&amp;rsquo;t forget to link to your own doc repo rather than our example site! Also make sure users can find these guidelines from your doc repo README: either add them there and link to them from this page, add them here and link to them from the README, or include them in both locations.&lt;/p></description></item><item><title>Easy documentation with Docsy</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/blog/2018/10/06/easy-documentation-with-docsy/</link><pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/blog/2018/10/06/easy-documentation-with-docsy/</guid><description>&lt;p>&lt;strong>This is a typical blog post that includes images.&lt;/strong>&lt;/p>
-&lt;p>The front matter specifies the date of the blog post, its title, a short description that will be displayed on the blog landing page, and its author.&lt;/p>
-&lt;h2 id="including-images">Including images&lt;a class="td-heading-self-link" href="#including-images" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>Here&amp;rsquo;s an image (&lt;code>featured-sunset-get.png&lt;/code>) that includes a byline and a caption.&lt;/p>
-&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/blog/2018/10/06/easy-documentation-with-docsy/featured-sunset-get_hu_ec172e7b7ea555c1.png" width="600" height="300">
-&lt;figcaption class="card-body px-0 pt-2 pb-0">
-&lt;p class="card-text">
-
-
-Fetch and scale an image in the upcoming Hugo 0.43.
-&lt;small class="text-body-secondary">&lt;br/>Photo: Riona MacNamara / CC-BY-CA&lt;/small>
-&lt;/p></description></item><item><title>Second blog post</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/blog/2018/10/06/second-blog-post/</link><pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/blog/2018/10/06/second-blog-post/</guid><description>&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://github.com">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p>
-&lt;p>There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p>
-&lt;blockquote>
-&lt;p>There should be no margin above this first sentence.&lt;/p></description></item><item><title>Another Great Release</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/blog/2018/01/04/another-great-release/</link><pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/blog/2018/01/04/another-great-release/</guid><description>&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://github.com">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p>
-&lt;p>There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p>
-&lt;blockquote>
-&lt;p>There should be no margin above this first sentence.&lt;/p></description></item><item><title>Example Page</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/getting-started/example-page/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/getting-started/example-page/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-
-&lt;/div>
-
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p></description></item><item><title>Parameter Reference</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/reference/parameter-reference/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/reference/parameter-reference/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-
-&lt;/div>
-
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p></description></item><item><title>About Goldydocs</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/about/</guid><description>&lt;link rel="preload" as="image" href="https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/about/featured-background_hu_f17a5c2a73b3f388.jpg" media="(max-width: 1200px)">
-&lt;link rel="preload" as="image" href="https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/about/featured-background_hu_d9e50e78593ab95e.jpg" media="(min-width: 1200px)">
-&lt;style>
-#td-cover-block-0 {
- background-image: url(/portable-data-parallel-extensions-europython-2025/about/featured-background_hu_f17a5c2a73b3f388.jpg);
-}
-@media only screen and (min-width: 1200px) {
- #td-cover-block-0 {
- background-image: url(/portable-data-parallel-extensions-europython-2025/about/featured-background_hu_d9e50e78593ab95e.jpg);
- }
-}
-&lt;/style>
-&lt;section id="td-cover-block-0" class="row td-cover-block td-cover-block--height-auto js-td-cover td-overlay td-overlay--dark -bg-dark">
- &lt;div class="col-12">
- &lt;div class="container td-overlay__inner">
- &lt;div class="text-center">
- &lt;h1 class="display-1 mt-0 mt-md-5 pb-4">About Goldydocs&lt;/h1>
- 
- &lt;div class="pt-3 lead">
- 
- &lt;p class="mt-5">A sample site using the Docsy Hugo theme.&lt;/p>
-
- 
- &lt;/div>
- &lt;/div>
- &lt;/div>
- &lt;/div>
- 
-&lt;/section>
-
-&lt;div>&lt;a id="td-block-1" class="td-offset-anchor">&lt;/a>&lt;/div>
-&lt;section class="row td-box td-box--1 position-relative td-box--height-auto">
-&lt;div class="col-12">
-&lt;div class="container text-center td-arrow-down">
-&lt;div class="h4 mb-0">
-&lt;p>Goldydocs is a sample site using the &lt;a href="https://github.com/google/docsy">Docsy&lt;/a>
-Hugo theme that shows what it can do and provides you with a template site
-structure. It’s designed for you to clone and edit as much as you like. See the
-different sections of the documentation and site for more ideas.&lt;/p></description></item><item><title>Search Results</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/search/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portable Data-Parallel Python Extensions with oneAPI</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/</link><description>Recent content on Portable Data-Parallel Python Extensions with oneAPI</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/index.xml" rel="self" type="application/rss+xml"/><item><title>About oneAPI</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/oneapi/</link><pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/oneapi/</guid><description>&lt;p>The Unified Acceleration Foundation (&lt;a href="https://uxlfoundation.org/">UXL&lt;/a>) under the umbrella of Linux Foundation is driving an open standard accelerator software ecosystem that includes compilers and performance libraries. This software ecosystem standardizes programming of different types of accelerators, such as multi-core CPUs, GPUs, some FPGAs, etc. from different vendors.&lt;/p>
+&lt;p>Intel&amp;rsquo;s oneAPI DPC++ compiler is an implementation of the &lt;a href="https://registry.khronos.org/SYCL/specs/sycl-2020/html/sycl-2020.html">SYCL-2020 standard&lt;/a> that is a part of UXL foundation&amp;rsquo;s overall language design standardization for accelerator programming in C++. The compiler is being developed in &lt;a href="https://github.com/intel/llvm">https://github.com/intel/llvm&lt;/a>, and supports offloading to Intel(R) GPUs, NVidia(R) GPUs, and AMD GPUs.&lt;/p></description></item><item><title>First DPC++ app</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/first-app/</link><pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/first-app/</guid><description>&lt;p>For an in-depth introduction to SYCL and to accelerators programming please refer to the &amp;ldquo;&lt;a href="https://link.springer.com/book/10.1007/978-1-4842-9691-2">Data Parallel C++&lt;/a>&amp;rdquo; open access e-book.&lt;/p>
+&lt;p>A SYCL application runs on SYCL platform (host, connected to one or more heterogeneous devices). The application is structured in three scopes: application scope, command group scope, and kernel scope. The kernel scope specifies a single kernel function that will be compiled by the device
+compiler and executed on the device. The command group scope specifies a unit work which includes the kernel function, preparation of
+its arguments and specifying execution ordering information. The application scope specifies all the other code outside of command group scope.
+Execution of SYCL application begins in the application scope.&lt;/p></description></item><item><title>KDE DPC++ example</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/kde-cpp/</link><pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/kde-cpp/</guid><description>&lt;p>Given a sample of \(n\) observations \(x_i\) drawn from an unknown underlying continuous distribution \(f(x)\),
+the kernel density estimate of that density function is computed as follows, for some kernel
+smoothing parameter \(h \in \mathbb{R}\):&lt;/p>
+&lt;p>$$
+\hat{f}(x) = \frac{1}{n} \sum_{i=1}^{n} \frac{1}{h} K\left(\frac{x - x_i}{h}\right)
+$$&lt;/p>
+&lt;p>An example of NumPy code performing the estimation, for a common choice of kernel function as standard
+\(d\)-dimensional Gaussian distribution:&lt;/p>
+&lt;!-- See https://stackoverflow.com/questions/5319754/cross-reference-named-anchor-in-markdown //-->
+&lt;p>&lt;a id="kde_numpy" href="">&lt;/a>&lt;/p></description></item><item><title>KDE Python extension</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/kde-python/</link><pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/kde-python/</guid><description>&lt;p>Since SYCL builds on C++, we are going to use the &lt;code>pybind11&lt;/code> project to generate a Python extension.
+We also need Python objects to carry USM allocations of input and output data, such as &lt;code>dpctl&lt;/code> (&lt;a href="https://github.com/IntelPython/dpctl.git">Data Parallel Control&lt;/a> Python package). The &lt;code>dpctl&lt;/code> package also provides Python objects corresponding to DPC++ runtime objects:&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Python object&lt;/th>
+ &lt;th>SYCL C++ object&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;code>dpctl.SyclQueue&lt;/code>&lt;/td>
+ &lt;td>&lt;code>sycl::queue&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;code>dpctl.SyclDevice&lt;/code>&lt;/td>
+ &lt;td>&lt;code>sycl::device&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;code>dpctl.SyclContext&lt;/code>&lt;/td>
+ &lt;td>&lt;code>sycl::context&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;code>dpctl.SyclEvent&lt;/code>&lt;/td>
+ &lt;td>&lt;code>sycl::event&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;code>dpctl&lt;/code> provides integration with &lt;code>pybind11&lt;/code> supporting castings between &lt;code>dpctl&lt;/code> Python objects and corresponding C++ SYCL classes listed in the table above. Furthermore, the integration provides the C++ class &lt;code>dpctl::tensor::usm_ndarray&lt;/code> which derives from &lt;code>pybind11::object&lt;/code>.
+It stores the &lt;code>dpctl.tensor.usm_ndarray&lt;/code> object and provides methods to query its attributes, such as data pointer, dimensionality, shape, strides
+and elemental type information. Underlying &lt;code>dpctl.tensor.usm_ndarray&lt;/code> is a SYCL unified shared memory (USM) allocation. See the &lt;a href="https://registry.khronos.org/SYCL/specs/sycl-2020/html/sycl-2020.html#sec:usm">SYCL standard&lt;/a> or &lt;a href="https://intelpython.github.io/dpctl/latest/api_reference/dpctl/memory.html#dpctl-memory-pyapi">dpctl.memory documentation&lt;/a> for more details.&lt;/p></description></item><item><title>oneMath Python extension</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/onemath/</link><pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/docs/onemath/</guid><description>&lt;p>Given a matrix \(A\), the QR decomposition of \(A\) is defined as the decomposition of \(A\) into the product of matrices \(Q\) and \(R\) such that \(Q\) is orthonormal and \(R\) is upper-triangular.&lt;/p>
+&lt;p>QR factorization is a common routine in more optimized LAPACK libraries, so rather than write and implement an algorithm ourselves, it would be preferable to find a suitable library routine.&lt;/p>
+&lt;p>Since &lt;code>dpctl.tensor.usm_ndarray&lt;/code> is a Python object with an underlying USM allocation, it is possible to write extensions which wrap &lt;code>oneAPI Math Library&lt;/code> (&lt;a href="https://github.com/uxlfoundation/oneMath">oneMath&lt;/a>) USM routines and then call them on the &lt;code>dpctl.tensor.usm_ndarray&lt;/code> from Python. These low-level routines can greatly improve the performance of an extension.&lt;/p></description></item><item><title>Search Results</title><link>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://IntelPython.github.io/portable-data-parallel-extensions-europython-2025/search/</guid><description/></item></channel></rss>
